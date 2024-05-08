@@ -1,4 +1,4 @@
-# Multiband-EQ
+# Multi-band Equalizer Matlab App
 An equalizer toolbox built in MATLAB App Designer.
 
 Installation Process
