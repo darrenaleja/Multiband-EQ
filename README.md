@@ -7,10 +7,10 @@ An equalizer toolbox built in MATLAB App Designer.
   <em>Equalizer in MATLAB App Designer</em>
 </p>
 
--Developed an offline equalizer with GUI capabilities, enabling users to select and apply audio effects to enhance audio files.
--Utilized Butterworth low-pass, Chebyshev Type II band-pass, and high-pass filters to precisely control frequency bands and ensure high-quality audio output.
--Integrated real-time adjustments, including preamp gain, reverb (using convolution with impulse responses), frequency shifts, and echo, simulating various audio environments.
--Applied principles of digital signal processing to achieve a balance between smooth frequency roll-off and sharp band separation, enhancing the listening experience for users.
+1. Developed an offline equalizer with GUI capabilities, enabling users to select and apply audio effects to enhance audio files.
+2. Utilized Butterworth low-pass, Chebyshev Type II band-pass, and high-pass filters to precisely control frequency bands and ensure high-quality audio output.
+3. Integrated real-time adjustments, including preamp gain, reverb (using convolution with impulse responses), frequency shifts, and echo, simulating various audio environments.
+4. Applied principles of digital signal processing to achieve a balance between smooth frequency roll-off and sharp band separation, enhancing the listening experience for users.
 
 ## Installation Process
 1. For those who have MATLAB installed, please run and open the application using MATLAB App Designer.
